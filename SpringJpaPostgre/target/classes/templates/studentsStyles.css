@@ -1,0 +1,9 @@
+form {position: center;
+    background-color: #9e1200;  /*200 + 300 + (20 * 2)*/ }
+
+input.text {  width: 300px; float: left; }
+input.submit { margin:20px; width: auto; }
+
+#body {
+    background: greenyellow;
+}
